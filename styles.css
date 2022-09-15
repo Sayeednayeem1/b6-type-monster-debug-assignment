@@ -73,6 +73,8 @@ body {
   border: 2px solid #9dffad;
   color: white;
   text-align: center;
+  margin-left: 400px;
+  margin-top: 200px;
   padding: 2rem;
 }
 #show-time{
